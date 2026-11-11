@@ -75,4 +75,6 @@ src/
 ## License
 MIT — free for personal and commercial use. The footer credit link can be removed; keeping it is appreciated.
 
+Demo photos are from [Unsplash](https://unsplash.com) under the [Unsplash License](https://unsplash.com/license) — replace them with your clinic's own photos before going live.
+
 Built by Angel Ivanov · angelivanovvv49@gmail.com
