@@ -2,7 +2,9 @@
 
 A clean, fast, config-driven website for a clinic, built with **Next.js 16, TypeScript and Tailwind CSS 4**. Edit a few config files, drop in your photos, deploy. MIT licensed.
 
-**Live demo of the full version:** https://lumen-dental-demo-brown.vercel.app
+**Live demo (Lite):** https://lumen-dental-lite.vercel.app · **Full version demo:** https://lumen-dental-demo-brown.vercel.app
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=Lumen+Dental+Lite&project-name=Lumen+Dental+Lite&repository-name=lumen-dental-lite&demo-description=Free+Next.js+16+website+template+for+dental+%26+medical+clinics&demo-url=https%3A%2F%2Flumen-dental-lite.vercel.app&repository-url=https%3A%2F%2Fgithub.com%2Faivnaov123%2Flumen-dental-lite&from=templates&build-command=npm+run+build&install-command=npm+install)
 
 | | Lite (this repo, free) | Full version |
 | --- | --- | --- |
@@ -57,7 +59,9 @@ Set `NEXT_PUBLIC_SITE_URL` (see `.env.example`) so the sitemap, robots and socia
 
 ## Deploy
 
-Push to GitHub and import the repo on Vercel or Netlify — Next.js is auto-detected, no settings needed. Or `npm run build && npm start` on any Node host.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=Lumen+Dental+Lite&project-name=Lumen+Dental+Lite&repository-name=lumen-dental-lite&demo-description=Free+Next.js+16+website+template+for+dental+%26+medical+clinics&demo-url=https%3A%2F%2Flumen-dental-lite.vercel.app&repository-url=https%3A%2F%2Fgithub.com%2Faivnaov123%2Flumen-dental-lite&from=templates&build-command=npm+run+build&install-command=npm+install)
+
+Or push to GitHub and import the repo on Vercel or Netlify — Next.js is auto-detected, no settings needed. Or `npm run build && npm start` on any Node host.
 
 ## Project structure
 
